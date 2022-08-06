@@ -1,8 +1,7 @@
-# todolist
-[React] to do list 앱 제작 프로젝트
-> 리액트에 익숙해지기 위해 블로그 글을 참고해 만들어본 할 일 관리 앱
-> 
-> [2022.05.22 ~ 2022.06.02]
+# Todo list
+: React에 익숙해지기 위해 블로그 글을 참고해 만들어본 할 일 관리 앱
+
+> [ 기간: 2022.05.22 ~ 2022.06.02 ]
 > 
 ***
 
@@ -29,3 +28,6 @@
 * styled-components를 활용한 컴포넌트 스타일링
 * TodoContext: `useReducer`(todoReducer 함수) + Context API를 활용한 편리한 상태 관리(`useContext` Hook) 
 * `memo` 함수를 통해 컴포넌트의 불필요한 재렌더링 방지
+
+***
+### _👉 자세한 프로젝트 문제해결 과정 정리 (노션: https://prickle-turn-785.notion.site/To-Do-List-e6124a0e279b4a009d4cab2289100a52)_
